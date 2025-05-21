@@ -1,0 +1,4 @@
+text,sentiment
+"I love this product!",positive
+"This is terrible!",negative
+"It is okay, not great.",neutral
